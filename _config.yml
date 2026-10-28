@@ -7,8 +7,7 @@ title: [AGR PEDALS : CUERVO MUERTO FUZZ BENDER VST3]
 tagline: [A very short description]
 description: [A short description of your site's purpose (e.g. for search engines)]
 
-show_downloads: [https://github.com/agutz/agrpedals_cm_fb.github.io/raw/cbf8a9188e75d6175962f842107726efa7bd73af/CuervoMuertoFuzzBender.vst3]
-google_analytics: [Your Google Analytics tracking ID]
+
 
 
 @import "{{ site.theme }}";
