@@ -9,4 +9,3 @@ title: [AGR PEDALS]
 tagline: []
 description: []
 
-@import "{{ site.theme }}";
